@@ -46,7 +46,7 @@ iframe {
 }
 
 #nav {
-    width: 600px;
+    width: 750px;
     margin: 20 auto;
     list-style-type: none;
     padding-left: 250px;
@@ -61,12 +61,12 @@ iframe {
 
 }
 #nav li {
-    display: block;
     float: left;
     width: 140px;
 
 }
 #nav li a {
+display: block; 
     color: #696969;
     text-align: center;
     padding: 5px 10px;
